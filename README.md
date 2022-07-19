@@ -2,7 +2,6 @@
 
 A Jumping Casual Game.
 
-## Build With
 * You can download Complete game from Cafebazaar for free :
   https://cafebazaar.ir/app/com.HivaGames.MrSibil
 

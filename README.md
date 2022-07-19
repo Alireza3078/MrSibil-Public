@@ -11,5 +11,4 @@ A Jumping Casual Game.
 * C#
 * Unity 2019.4.36f1
 
-## Wish you have enjoyed that!Good Luck:D
  
